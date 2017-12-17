@@ -1,0 +1,12 @@
+name: Sentiment_Analysis_Shiny
+title: Sentiment_Analysis_Shiny
+username:
+account: jinge
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 249603
+bundleId: 1139396
+url: https://jinge.shinyapps.io/Sentiment_Analysis_Shiny/
+when: 1513526523.91136
+asMultiple: FALSE
+asStatic: FALSE
